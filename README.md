@@ -18,6 +18,17 @@ I am doing a project focusing on hate speech against Rohingya community in Aceh.
 For a detailed example, see the Jupyter notebook in the `notebooks/` directory:
 - `notebooks/example_usage.ipynb`
 
+
+## Model Performance Metrics
+
+| Metric    | Value  |
+|-----------|--------|
+| Accuracy  | 0.7742 |
+| Precision | 0.7212 |
+| Recall    | 0.8891 |
+| F1-Score  | 0.7964 |
+
+
 ## Contributing
 Feel free to submit issues or pull requests. Contributions are welcome!
 
