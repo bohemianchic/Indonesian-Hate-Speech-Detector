@@ -1,7 +1,7 @@
 # Indonesian-Hate-Speech-Detector
 
 This project fine-tunes a pre-trained IndoBERTweet model for hate speech detection in Indonesian tweets. The model is quite effective. Emphasis on the 'quite'. This is particularly if your primary concern is not missing positive cases (high recall). 
-Though, if your application requires minimising incorrect positive predictions (like in precision-sensitive contexts), you might consider methods to improve precision.  I had a problem looking for Indonesian dataset, I only used [this](https://github.com/ialfina/id-hatespeech-detection/blob/master/IDHSD_RIO_unbalanced_713_2017.txt) and [this] (https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection).
+Though, if your application requires minimising incorrect positive predictions (like in precision-sensitive contexts), you might consider methods to improve precision.  I had a problem looking for Indonesian dataset, I only used [this](https://github.com/ialfina/id-hatespeech-detection/blob/master/IDHSD_RIO_unbalanced_713_2017.txt) and [this](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection).
 
 ## Motivation
 
